@@ -1,3 +1,3 @@
 # hello-world
-a new repository
-well, It's a nice try for the github.
+a new repository!
+Well, it's a nice try for the github.
